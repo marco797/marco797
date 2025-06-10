@@ -3,8 +3,10 @@ My name is Marco, but everyone calls me Paco!
 
 - 🔭 I’m currently working in the VFX industry as a 3D Generalist
 - ⚡ My main skills are on Houdini, Maya, Blender and Nuke
-- 📫 I am confident with C# OOP (Unity) and Python, used to automate processes
-- 🌱 I’m currently learning programming more deeply (FullStack)
+- 📫 I am confident with C# OOP (Unity) and Python, used to automate processes at work
+- 🌱 I’m currently learning even more programming!
+
+I am a Master's Degree Cinema and Media Engineer @Politecnico di Torino (Computer Science department)
 <!--
 **marco797/marco797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
