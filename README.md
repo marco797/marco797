@@ -1,10 +1,13 @@
-## Hi there 👋
+## 👋 Hi there 
 My name is Marco, but everyone calls me Paco!
 
 - 🔭 I’m currently working in the VFX industry as a 3D Generalist
 - ⚡ My main skills are on Houdini, Maya, Blender and Nuke
-- 📫 I am confident with C# OOP (Unity) and Python, used to automate processes at work
+- 📫 I am confident with C# (Unity) and Python, used to automate processes at work
 - 🌱 I’m currently learning even more programming!
+
+You can check my [LinkedIn Profile](https://www.linkedin.com/in/cortesemarco/) and my 3D Generalist [Showreel](https://vimeo.com/1027730171).
+
 
 I am a Master's Degree Cinema and Media Engineer @Politecnico di Torino (Computer Science department)
 <!--
